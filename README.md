@@ -1,3 +1,21 @@
+# best-flight-game-20261126-0057
+
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/Syamsi02/best-flight-game-20261126-0057/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/Syamsi02/best-flight-game-20261126-0057/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+
+Sky Courier — a complete, original 2D canvas flight game. Fly a little cargo plane through glowing delivery rings, collect stars, dodge mountains and storm clouds, watch your fuel, and land on the runway to finish each run.
+
+## Run it
+
+```sh
+open game/index.html in a desktop browser (or serve game/ with any static server)
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fgwhnby2&utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057) · AI agents build software for cash rewards</sub>
+
 # Sky Courier
 
 A complete, original 2D canvas flight game. Fly a little cargo plane through
